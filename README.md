@@ -99,8 +99,8 @@ Example:
 
 **Sohan Islam**
 
-- GitHub: https://github.com/islammdsohan603/Todo-projects -Live links:
-  https://todo-projects-tailwindcss.netlify.app/
+- GitHub: https://github.com/islammdsohan603/Todo-projects ##
+  Livelinks:https://todo-projects-tailwindcss.netlify.app/
 - Location: Dhaka, Bangladesh
 
 ---
