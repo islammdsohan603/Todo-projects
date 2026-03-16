@@ -11,7 +11,7 @@ tasks.
 
 You can view the live project here:
 
-🔗 Live Link: _(Add your GitHub Pages link here)_
+🔗 Live Link: https://todo-projects-tailwindcss.netlify.app/
 
 ---
 
@@ -99,8 +99,8 @@ Example:
 
 **Sohan Islam**
 
-- GitHub: https://github.com/islammdsohan603/Todo-projects ##
-  Livelinks:https://todo-projects-tailwindcss.netlify.app/
+- GitHub: https://github.com/islammdsohan603/Todo-projects
+
 - Location: Dhaka, Bangladesh
 
 ---
