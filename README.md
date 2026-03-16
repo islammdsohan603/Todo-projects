@@ -78,7 +78,9 @@ _(Add a screenshot of your project here)_
 Example:
 
 ```
-c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 170610.png
+## 📸 Project Screenshot
+
+! (images/todo.png)
 ```
 
 ---
@@ -97,7 +99,8 @@ c:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 170610.png
 
 **Sohan Islam**
 
-- GitHub: https://github.com/islammdsohan603/Todo-projects
+- GitHub: https://github.com/islammdsohan603/Todo-projects -Live links:
+  https://todo-projects-tailwindcss.netlify.app/
 - Location: Dhaka, Bangladesh
 
 ---
